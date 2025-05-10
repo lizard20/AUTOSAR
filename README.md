@@ -1,2 +1,2 @@
-# SDV . Software Defined Vehicle
+# SDV - Software Defined Vehicle
 # AUTOSAR
